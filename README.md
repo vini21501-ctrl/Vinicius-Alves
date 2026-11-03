@@ -5,8 +5,7 @@
 ## 🚀 Tech Stack
 
 **Linguagens:**
-- C <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82fce116-3d84-449c-8a99-81200c08420a" />
-
+- C
 - SQL
 - Python (em aprendizado)
 
